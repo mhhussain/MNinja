@@ -1,0 +1,6 @@
+C:\Users\Mohammed\Documents\GitHub\MNinja\MNinja.App\bin\Debug\MNinja.App.dll
+C:\Users\Mohammed\Documents\GitHub\MNinja\MNinja.App\bin\Debug\MNinja.App.pdb
+C:\Users\Mohammed\Documents\GitHub\MNinja\MNinja.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohammed\Documents\GitHub\MNinja\MNinja.App\obj\Debug\MNinja.App.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Documents\GitHub\MNinja\MNinja.App\obj\Debug\MNinja.App.dll
+C:\Users\Mohammed\Documents\GitHub\MNinja\MNinja.App\obj\Debug\MNinja.App.pdb
