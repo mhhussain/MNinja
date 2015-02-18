@@ -10,7 +10,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="app/home.html">
-      <publishTime>01/02/2015 21:44:33</publishTime>
+      <publishTime>02/17/2015 22:54:00</publishTime>
     </File>
     <File Include="app/home.js">
       <publishTime>12/29/2014 19:10:57</publishTime>
@@ -25,7 +25,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/29/2014 18:41:28</publishTime>
     </File>
     <File Include="app/shell.html">
-      <publishTime>01/03/2015 13:32:30</publishTime>
+      <publishTime>02/17/2015 23:04:48</publishTime>
     </File>
     <File Include="app/shell.js">
       <publishTime>12/29/2014 22:53:26</publishTime>
@@ -178,7 +178,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/27/2014 18:31:59</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>01/03/2015 18:01:09</publishTime>
+      <publishTime>02/17/2015 23:05:02</publishTime>
     </File>
     <File Include="Scripts/almond-custom.js">
       <publishTime>12/27/2014 18:31:59</publishTime>
@@ -298,7 +298,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/27/2014 18:31:57</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>12/27/2014 18:32:02</publishTime>
+      <publishTime>02/17/2015 22:50:46</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>01/03/2015 18:01:09</publishTime>

@@ -24,3 +24,4 @@ C:\Users\Mohammed\Documents\GitHub\MNinja\MNinjaWeb\bin\System.Web.WebPages.xml
 C:\Users\Mohammed\Documents\GitHub\MNinja\MNinjaWeb\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Mohammed\Documents\GitHub\MNinja\MNinjaWeb\obj\Debug\MNinjaWeb.dll
 C:\Users\Mohammed\Documents\GitHub\MNinja\MNinjaWeb\obj\Debug\MNinjaWeb.pdb
+C:\Users\Mohammed\Documents\GitHub\MNinja\MNinjaWeb\obj\Debug\MNinjaWeb.csprojResolveAssemblyReference.cache
